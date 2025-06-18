@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            h1 {
+                color: red;
+
+            }
+            #b{
+                color: rgb(12, 12, 99);
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1 id="a">HTML</h1>
+            <h2 id="b">CSS</h2>
+            <h3 id="c">Js</h3>
+        </div>
+    </body>
+</html>
